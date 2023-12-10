@@ -1,4 +1,5 @@
 # MU-ourProject
-this is the first app. 
+
+this is the first app.
 <br>
-author(bhuwan)
+author(bhuwan khadka)
